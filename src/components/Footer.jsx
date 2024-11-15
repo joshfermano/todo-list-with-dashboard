@@ -12,25 +12,25 @@ const Footer = () => {
         <div>
           <ul className="flex flex-row space-x-3 text-xl">
             <li>
-              <a href="#">
+              <a href="https://www.facebook.com/joshkhovick/">
                 <FaFacebook className="hover:scale-95 transition duration-500" />
               </a>
             </li>
 
             <li>
-              <a href="#">
+              <a href="https://www.instagram.com/joshfermano_/">
                 <FaInstagram className="hover:scale-95 transition duration-500" />
               </a>
             </li>
 
             <li>
-              <a href="#">
+              <a href="https://github.com/joshfermano">
                 <FaGithub className="hover:scale-95 transition duration-500" />
               </a>
             </li>
 
             <li>
-              <a href="#">
+              <a href="https://www.linkedin.com/in/joshfermano/">
                 <FaLinkedin className="hover:scale-95 transition duration-500" />
               </a>
             </li>
